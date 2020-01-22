@@ -1,0 +1,2396 @@
+Zapraszam na mój profil YouTube, znajdziesz tam wiêcej tutoriali !  
+http://www.youtube.com/user/PodlasieMt2
+
+11000 Shinso Straznik Wsi
+11001 Shinso Egzekutor Bitewny
+11002 Chunjo Straznik Wsi
+11003 Chunjo Egzekutor Bitewny
+11004 Jinno Straznik Wsi
+11005 Jinno Egzekutor Bitewny
+11100 Shinso Straznik Wsi
+11101 Shinso Egzekutor Bitewny
+11102 Chunjo Straznik Wsi
+11103 Chunjo Egzekutor Bitewny
+11104 Jinno Straznik Wsi
+11105 Jinno Egzekutor Bitewny
+11106 Shinso Straznik Wsi
+11107 Shinso Egzekutor Bitewny
+11108 Chunjo Straznik Wsi
+11109 Chunjo Egzekutor Bitewny
+11110 Jinno Straznik Wsi
+11111 Jinno Egzekutor Bitewny
+11112 Shinso Straznik Wsi
+11113 Shinso Egzekutor Bitewny
+11114 Chunjo Straznik Wsi
+11115 Chunjo Egzekutor Bitewny
+11116 Jinno Straznik Wsi
+11117 Jinno Egzekutor Bitewny
+11505 Zlota ¯aba
+11506 Posag Ognia
+11507 Posag Ognia
+11508 Posag Ognia
+11509 Posag Ognia
+11510 Posag Ognia
+12000 Ognisko
+13000 Drewniana Brama
+13001 Kamienna Brama
+14000 Warsztat
+14013 Oltarz
+14020 Kwatera Dowodztwa
+14033 Oboz Treningowy
+14048 Piec
+20001 Alchemik
+20002 Aranyo
+20003 Ah-Yu
+20004 Niepokazny Pieszy
+20005 Yohan
+20006 Mirine
+20007 Dozorca
+20008 Octavio
+20009 Staruszek
+20010 Domokrazca
+20011 Uriel
+20012 Yu-Rang
+20013 Rybak
+20014 Taurean
+20015 Deokbae
+20016 Kowal ;]
+20017 Yonah
+20018 Baek-Go
+20019 Yang-Shin
+20020 Zdrajca Baiso
+20021 Ariyoung
+20022 Hu-Ahn-So
+20023 Soon
+20024 Harang
+20026 Ji-Ryu
+20027 Gillian
+20028 Brat Mirine
+20029 Kucyk
+20030 Kon
+20031 Mikolaj
+20032 Choinka
+20033 Choinka
+20034 Choinka
+20035 Czerwona Flaga
+20036 Niebieska Flaga
+20037 Zolta Flaga
+20040 Agent L¹dowy
+20041 Niepokazny Pieszy
+20042 Wedrujacy Domokrazca
+20044 Stanley - Bronmistrz
+20045 Stanton - Platnerz
+20046 Starbuck - Jubiler
+20074 Zbrojmistrz Demoniej Wiezy
+20075 Platnerz Demoniej Wiezy
+20076 Jubiler Demoniej Wiezy
+20080 Przyw. Treningu
+20097 Brama Zamku Shinso
+20098 Brama Zamku Chunjo
+20099 Brama Zamku Jinno
+20101 Bialy Kon
+20102 Brazowy Kon
+20103 Czarny Kon
+20104 Bialy Bojowiec
+20105 Brazowy Bojowiec
+20106 Czarny Bojowiec
+20107 Bialy Militar
+20108 Brazowy Militar
+20109 Czarny Militar
+20300 Instruktor Mocy Arahan Shinsoo
+20301 Instruktor Mocy Duchowej Shinsoo
+20302 Instruktor Mocy Zabojcy Shinsoo
+20303 Instruktor Mocy Lucznika Shinsoo
+20304 Instruktor Mocy Fatam. Shinsoo
+20305 Instruktor Mocy Czarnej Magii Shinsoo
+20306 Instruktor Mocy Blyskawicy Shinsoo
+20307 Instruktor Mocy Smoka Shinsoo
+20320 Instruktor Mocy Arahan Chunjo
+20321 Instruktor Mocy Duchowej Chunjo
+20322 Instruktor Mocy Zabojcy Chunjo
+20323 Instruktor Mocy Lucznika Chunjo
+20324 Instruktor Mocy Fatam. Chunjo
+20325 Instruktor Mocy Czarnej Magii Chunjo
+20326 Instruktor Mocy Blyskawicy Chunjo
+20327 Instruktor Mocy Smoka Chunjo
+20340 Instruktor Mocy Arahan Jinno
+20341 Instruktor Mocy Duchowej Jinno
+20342 Instruktor Mocy Zabojcy Jinno
+20343 Instruktor Mocy Lucznika Jinno
+20344 Instruktor Mocy Fatam. Jinno
+20345 Instruktor Mocy Czarnej Magii Jinno
+20346 Instruktor Mocy Blyskawicy Jinno
+20347 Instruktor Mocy Smoka Jinno
+20348 Straznik Wiezy Demonow
+20349 Stajenny
+20350 Straznik Legowiska
+20351 Straznik Dworski
+20352 Kamienny Pomnik Hasuna
+20353 Kamienny Pomnik Seul Ronga
+20354 Straznik Miejski
+20355 Kapitan
+20356 Kolekcjoner Ginseng
+20047 ¯y³a Diamentu
+20048 ... Bursztynu
+20049 ... Skamienialego Drewna
+20050 ...Miedzi
+20051 ...Srebra
+20052 ...Zlota
+20053 ...Jadelitu
+20054 ...Ebonitu
+20055 Strefa Muszli
+20056 ...Bialego Zlota
+20057 ...Krysztalu
+20058 ...Ametystu
+20059 ...Nieb, Lez
+20060 Diamentowy Alchemik
+20061 Bursztynowy Alchemik
+20062 Drewniany Alchemik Kopalny
+20063 Miedziany Alchemik
+20064 Srebrny Alchemik
+20065 Zloty Alchemik
+20066 Jadelitowy Alchemik
+20067 Ebonitowy Alchemik
+20068 Perlowy Alchemik
+20069 Alchemik Bialego Zlota
+20070 Krysztalowy Alchemik
+20071 Ametystowy Alchemik
+20072 Alchemik Niebianskich Lez
+20073 Starozytna Pieczec
+20077 - 20079 Straznik Oltarza Mocy
+20081 Skradziona Pieczec Przejscia
+20082 GM
+20083 Teleporter
+20084 Biolog Chaegirab
+20086 Handu-Up
+20087 Wonda-Rim
+20088 Chuck-Sal
+20089 Pung-Ho
+20090 Heuk-Yong
+20091 Seon-Pyeong
+20092 Hwa-Hae
+20093 Koe-Pung
+20094 Hong-Hae
+20095 Seon-Hae
+20096 Kamienny Posag
+9001 Handlarz Bronia
+9002 Handlarz Zbrojami
+9003 Handlarz Roznosciami
+9004 Pomocnik Zdarzen
+9005 Dozorca
+9006 Starsza Pani
+9007 Handlarz Bronia
+9008 Handlarz Zbrojami
+9009 Rybak
+9010 Helen z Magazynu
+9011 Hana Org. Slubow
+9012 Teleporter
+20357 Pomnik Woela
+20358 Bezimienne Kwiaty
+20359 Stare Pudlo z Papierami
+20366 Sa-Soe
+20360 Pomnik Wha
+20361 Pomnik Su
+20362 Pomnik Moka
+20363 Pomnik Gum
+20364 Nakajima
+20365 Pomnik To
+
+
+POTWORY I BOSSY
+101 Dziki Pies
+171 Glodny Zablakany Pies
+102 Wilk
+172 Glodny Wilk
+103 Alfa Wilk
+173 Glodny Alfa Wilk
+104 Niebieski Wilk
+174 Glodny Niebieski Wilk
+105 Niebieski Alfa Wilk
+175 Glodny Niebieski Alfa Wilk
+106 Szary Wilk
+176 Glodny Szary Wilk
+107 Szary Alfa Wilk
+177 Glodny Szary Alfa Wilk
+108 Dzik
+178 Glodny Dzik
+109 Czerwony Dzik
+179 Glodny Czerwony Dzik
+110 Niedzwiedz
+180 Glodny Niedzwiedz
+111 Niedzwiedz Grizzly
+181 Glodny Niedzwiedz Grizzly
+112 Czarny Niedzwiedz
+182 Glodny Czarny Niedzwiedz
+113 Brazowy Niedzwiedz
+183 Glodny Brazowy Niedzwiedz
+114 Tygrys
+184 Glodny Tygrys
+115 Bialy Tygrys
+185 Glodny Bialy Tygrys
+131 Przeklety Wilk
+132 Przeklety Alfa Wilk
+133 Przeklety Niebieski Wilk
+134 Przeklety Niebieski Alfa Wilk
+135 Przeklety Szary Wilk
+136 Przeklety Szary Alfa Wilk
+137 Przeklety Dzik
+138 Przeklety Czerwony Dzik
+139 Przeklety Niedzwiedz
+140 Przeklety Niedzwiedz Grizzly
+141 Przeklety Czarny Niedzwiedz
+142 Przeklety Brazowy Niedzwiedz
+143 Przeklety Tygrys
+144 Przeklety Bialy Tygrys
+151 Cung-Mok
+152 Mu-Rang
+153 Jug-Hyul
+154 Young-Ji
+155 Li-An
+191 Lykos
+192 Scrofa
+193 Bera
+194 Tigris
+301 Zaprzysiezony Zolnierz
+351 Tchorzliwy Zaprzysiezony Zolnierz
+302 Zaprzysiezony Lucznik
+352 Tchorzliwy Zaprzysiezony Lucznik
+303 Zaprzysiezony General
+353 Tchorzliwy Zaprzysiezony General
+304 Zaprzysiezony Komandor
+354 Tchorzliwy Zaprzysiezony Komandor
+331 Zaprzysiezony Zolnierz
+332 Zaprzysiezony Lucznik
+333 Zaprzysiezony General
+334 Zaprzysiezony Komandor
+391 Mi-Jung
+392 Eun-Jung
+393 Se-Rang
+394 Jin-Hee
+395 Bezduszny Mi-Jung
+396 Bezduszny Eun-Jung
+397 Bezduszny Se-Rang
+398 Bezduszny Jin-Hee
+401 Zolnierz Czarnego Wiatru
+402 Maniak Czarnego Wiatru
+403 Lucznik Czarnego Wiatru
+404 Jak-To Czarnego Wiatru
+405 To-Su Czarnego Wiatru
+406 Gu-Ryung Czarnego Wiatru
+451 Zly Czar. Burz. Zolnierz
+452 Zly Czar. Burz. Maniak
+453 Zly Czar. Burz. Lucznik
+454 Zly Czar. Burz. Joh-Hwan
+455 Zly Czar. Burz. Kyuk-Jang
+456 Zly Czar. Burz. Pho-Hwan
+431 Zolnierz Czarnej Burzy
+432 Maniak Czarnej Burzy
+433 Lucznik Czarnej Burzy
+434 Joh-Hwan Czarnej Burzy
+435 Kyuk-Jang Czarnej Burzy
+436 Pho-Hwan Czarnej Burzy
+491 Mahon
+492 Bo
+493 Goo-Pae
+494 Choung
+501 Dziki Zolnierz Piechoty
+502 Dziki Sluga
+503 Dziki Lucznik
+504 Dziki General
+551 Silny Dziki Piechur
+552 Silny Dziki Sluga
+553 Silny Dziki Lucznik
+554 Silny Dziki General
+531 Best. Zolnierz
+532 Best. Maniak
+533 Best. Lucznik
+534 Best. Specjalista
+591 Best .Kapitan
+595 Best Guem-Chul
+601 Ork
+602 Ork Zwiadowca
+603 Ork Wojownik
+604 Ork Czarodziej
+631 Elit. Ork
+632 Elit. Ork Zwiadowca
+633 Elit. Ork Wojownik
+634 Elit. Ork Czarodziej
+635 Elit. Ork General
+636 Czarny Ork
+637 Czarny Ork Zwiadowca
+651 Duzy Lysy Ork
+652 Duzy Lysy Ork Zwiadowca
+653 Duzy Lysy Ork Wojownik
+654 Duzy Lysy Ork Czarodziej
+655 Duzy Lysy Ork General
+656 Lysy Czarny Ork
+657 Duzy Lysy Czarny Ork
+691 Wodz Orkow
+692 Elitarny Wodz Orkow
+693 Odrodzony Wodz Orkow
+701 Ezot. Fanatyk
+702 Ezot. Arahan
+703 Ezot. Wojownik Arahan
+704 Wodz Ezot. Arahan
+705 Ezot. Egzekutor
+706 Ezot. Dreczyciel
+707 Ezot. Przyzywacz
+751 Wysoki Fanatyk
+752 Wysoki Arahan
+753 Wysoki Wojownik Arahan
+754 Wysoki Elit. Arahan
+755 Wysoki Smiercionosny
+756 Wysoki Dreczyciel
+757 Wysoki Przywolywacz
+731 Elit. Ezot Fanatyk
+732 Elit. Ezot. Arahan
+733 Elit. Ezot. Wojownik
+734 Elit. Ezot. Wodz
+735 Elit. Ezot. Egzekutor
+736 Elit. Ezot. Dreczyciel
+737 Elit. Ezot. Przyzywacz
+771 Best. Fanatyk
+772 Best. Arahan
+773 Best. Wojownik Arahan
+774 Best. Wodz. Arahan
+775 Best. Smiercionosny
+776 Best. Dreczyciel
+777 Best. Przywolywacz
+791 Ezot. Przyw
+792 Reinkar. Ezot. Przyw
+793 Elit. Ezot. Przyw
+794 Elit. Duch Ezot. Przyw
+795 Elitarny Wojownik
+901 Duch Martwego Ciala
+902 Zarazony Pies
+903 Zarazony Czlowiek
+904 Zarazony Miecznik
+905 Zarazony Wlocznik
+906 Zarazony Lucznik
+907 Zarazony Przyw.
+931 Zly Duch Martwego Ciala
+932 Zly Zarazony Pies
+933 Zly Zarazony Czlowiek
+934 Zly Zarazony Miecznik
+935 Zly Zarazony Wlocznik
+936 Zly Zarazony Lucznik
+937 Zly Zarazony Przyw.
+991 Zarazone Jajo
+992 Nosiciel Plagi
+993 Olbrzymi Nosiciel Plagi
+1001 Demoni Zolnierz
+1002 Demoni Lucznik
+1003 Demoni Wlocznik
+1004 Demoni Szaman
+1031 Podly Demoni Zolnierz
+1032 Podly Demoni Lucznik
+1033 Podly Demoni Wlocznik
+1034 Podly Demoni Szaman
+1035 Duch Zalu
+1036 Duch Chaosu
+1037 Demoni Przyw
+1038 Mistrz Czaszk. Miecza
+1039 Latajaca Czaszka
+1040 Niesmiertelny Duch
+1041 Demoniczna Bestia
+1061 Brutalny Demoni Zolnierz
+1062 Brutalny Demoni Lucznik
+1063 Brutalny Demoni Wlocznik
+1064 Brutalny Demoni Szaman
+1065 Brutalny Duch Zalu
+1066 Brutalny Duch Chaosu
+1067 Brutalny Demoni Przyw.
+1068 Duchowy Mistrz Miecza
+1069 Brutalna Latajaca Czaszka
+1070 Niesmiertelny Duch
+1071 Demoniczna Bestia
+1091 Krol Demonow
+1092 Elitarny Krol Demonow
+1093 Umarly Rozpruwacz
+1094 Elitarny Podly Krol Demonow
+1095 Niebieska Smierc
+1101 Zaczarowany Lod
+1102 Lodowy Wieloryb Zabojca
+1103 Lodowy Robak
+1104 Lodowy Lew
+1105 Lodowy Czlowiek
+1106 Yeti
+1107 Lodowy Golem
+1131 Niebianski Lodowy Kon
+1132 Niebianski Lodowy Wieloryb Zabojca
+1133 Niebianski Lodowy Robak
+1134 Niebianska Lodowa Kula
+1135 Niebianski Lodowy Czlowiek
+1136 Niebianski Czlowiek Sniegu
+1137 Niebianski Lodowy Golem
+1171 Wredny Zaczarowany Lod
+1172 Wredny Lodowy Wieloryb Zabojca
+1173 Wredny Lodowy Robak
+1174 Wredny Lodowy Lew
+1175 Wredny Lodowy Czlowiek
+1176 Wredny Yeti
+1177 Wredny Lodowy Golem
+1151 Lodowy Diabel
+1152 Rogaty Zab. Wieloryb
+1153 Lodowy Robak
+1154 Seol-Gu
+1155 Lodowy Czlowiek
+1156 Lodowy Gigant
+1157 Lodowy Golem
+1191 Lodowa Wiedzma
+1192 Silna Lodowa Wiedzma
+1301 Drzewny Zabi Zolnierz
+1302 Drzewny Zabi Przyw.
+1303 Straszydlo
+1304 Zjawa Zoltego Tygrysa
+1305 Ropuszy General
+1331 Duzy Drzewny Zabi Zolnierz
+1332 Duzy Drzewny Zabi Przyw.
+1333 Duze Straszydlo
+1334 Duza Zjawa Zoltego Tygrysa
+1335 Zly Ropuszy General
+1306 Elit. Zjawa Zoltego Tygrysa
+1307 Elit. Zjawa Zoltego Tygrysa
+1901 9 ogonow
+1902 Elit. 9 ogonow
+1903 Elit. 9 ogonow
+8501 Dziki Pies
+8502 Dzik
+8503 Niedzwiedz
+8504 Bialy Tygrys
+8505 Czarny Olbrzymi Ork
+8506 Drzewny Zabi Przyw.
+8508 Ezot. Dreczyciel
+8509 Ezot. Przyzywacz
+8511 Lodowy Golem
+2001 Mlody Pajak
+2002 Trujacy Pajak
+2003 Czerwony Trujacy Pajak
+2004 Szpon Pajak
+2005 Pajak Zolnierz
+2031 Mlody Trujacy Pajak
+2032 Smiert. Trujacy Pajak
+2033 Czerwony Trujacy Pajak
+2034 Szpon. Trujacy Pajak
+2035 Trujacy Pajak Zolnierz
+2036 Elitarny Trujacy Pajak Zolnierz
+2061 Mlody Trujacy Pajak
+2062 Smiert. Trujacy Pajak
+2063 Czerwony Trujacy Pajak
+2064 Szpon. Trujacy Pajak
+2065 Trujacy Pajak Zolnierz
+2051 Podly Mlody Trujacy Pajak
+2052 Podly Smiert. Trujacy Pajak
+2053 Podly Czerwony Trujacy Pajak
+2054 Podly Szpon. Trujacy Pajak
+2055 Podly Trujacy Pajak Zolnierz
+2071 Best. Mlody Trujacy Pajak
+2072 Best. Smiert. Trujacy Pajak
+2073 Best. Czerwony Trujacy Pajak
+2074 Best. Szpon. Trujacy Pajak
+2075 Best. Trujacy Pajak Zolnierz
+2076 Best. Silny Trujacy Pajak
+2091 Krolowa Pajakow
+2093 Elitarna Krolowa Pajakow
+2092 Krol Pajakow
+2101 Pustynny Lis
+2102 Pustynne Latajace Oko
+2103 Krol Skorpion
+2104 Czlowiek Skorpion
+2105 Skorpion Lucznik
+2106 Wezowy Miecznik
+2107 Wezowy Lucznik
+2108 Pustynny Zawadiaka
+2131 Czlowiek Skorpion
+2132 Skorpion Lucznik
+2133 Wezowy Miecznik
+2134 Wezowy Lucznik
+2135 Pustynny Zawadiaka
+2151 Silny Pustynny Lis
+2152 Silny Derwisz
+2153 Silny Krol Skorpion
+2154 Silny Czlowiek Skorpion
+2155 Silny Skorpion Lucznik
+2156 Silny Wezowy Miecznik
+2157 Silny Wezowy Lucznik
+2158 Silny Pustynny Zawadiaka
+2191 Olbrzymi Zolw
+2192 Elitarny Olbrzymi Zolw
+2401 Niebianski Zolnierz
+2402 Niebianski Krol Zolnierz
+2403 Niebianski Kleryk
+2404 Niebianski Komendant
+2411 Zin-Niebianski Zolnierz
+2412 Zin-Niebianski Krol Zolnierz
+2413 Zin-Niebianski Kleryk
+2414 Zin-Niebianski Komendant
+2431 Niebianski Zolnierz
+2432 Niebianski Krol Zolnierz
+2433 Niebianski Kleryk
+2434 Niebianski Komendant
+2451 Zin-Niebianski Zolnierz
+2452 Zin-Niebianski Krol Zolnierz
+2453 Zin-Niebianski Kleryk
+2454 Zin-Niebianski Komendant
+2491 Niebianski Komendant
+2492 Zin-Niebianski Komendant
+2493 ...smok z atlantydy...
+2494 ...smok z atlantydy...
+7012 Pustynne Latajace Oko
+7013 Krol Skorpion
+7014 Czlowiek Skorpion
+7015 Skorpion Lucznik
+7016 Wezowy Miecznik
+7017 Wezowy Lucznik
+7018 Pustynny Zawadiaka
+2201 Sluga Walcz. Tygrysa
+2202 Ognisty Duch
+2203 Walczacy Tygrys
+2204 Plomien
+2205 Ognisty Wojownik
+2206 Ognisty Krol
+2207 Elitarny Ognisty Krol
+2231 Silny Sluga Walcz. Tygrysa
+2232 Silny Ognisty Duch
+2233 Silny Walczacy Tygrys
+2234 Silny Plomien
+2235 Silny Ognisty Wojownik
+2291 Czerwony Smok
+7019 Zolnierz Tu-Ji
+7020 Hwa-Ryung
+7021 Tu-Ji Bum
+7022 Cham-Ma
+7023 Teawha-Mu
+2301 Duch Drzewa
+2302 Duch Pniaka
+2303 Driada
+2304 Duch Wierzby
+2305 Zle Drzewo
+2306 Olbrzymi Duch Drzewa
+2307 Wladca Duchow Drzew
+2311 Czerwony Duch Drzewa
+2312 Czewrony Duch Pniaka
+2313 Czerwona Driada
+2314 Czerwony Duch Wierzby
+2315 Czerwone Zle Drzewo
+7024 Juk-Gui
+7025 Dung-Juk
+7026 Juk-Mok
+7027 Hwaryu Juk
+7028 Czarny Juk-Guimok
+5001 Pirat Tanaka
+5002 Hae-Tae
+5003 Malpa
+5004 Pirat Tanaka
+5101 Slaby Malpi Zolnierz
+5102 Slaby Malpi Miotacz
+5103 Slaby Malpi Wojownik
+5104 Slaby Malpi General
+5111 Malpi Zolnierz
+5112 Malpi Miotacz
+5113 Malpi Wojownik
+5114 Malpi General
+5115 Kamienna Malpa
+5116 Przyw. Malp
+5121 Silny Malpi Zolnierz
+5122 Silny Malpi Miotacz
+5123 Silny Malpi Wojownik
+5124 Silny Malpi Genaral
+5125 Silna Kamienna Malpa
+5126 Silna Zlota Malpa
+5127 Silny Przyw. Malp
+5131 Madry M.Malpi Zolnierz
+5132 Madry M.Malpi Miotacz
+5133 Madry M.Malpi Wojownik
+5134 Madry M.Malpi General
+5141 Madry Malpi Zolnierz
+5142 Madry Malpi Miotacz
+5143 Madry Malpi Wojownik
+5144 Madry Malpi General
+5145 Madra Kamienna Malpa
+5146 Madry Malpi Przyw.
+5151 Zly Silny Malpi Zolnierz
+5152 Zly Silny Malpi Miotacz
+5153 Zly Silny Malpi Wojownik
+5154 Zly Silny Malpi General
+5155 Zla Silna Kamienna Malpa
+5156 Zla Silna Zlota Malpa
+5157 Zly Silny Malpi Przyw.
+7001 Goryli Zolnierz
+7002 Goryli Jezdziec
+7003 Gimu Malpi Zolnierz
+7004 Malpi Dowodca
+7005 Kamienny Goryl
+7006 Zloty Goryl
+7007 Goryl General
+5161 Skalista Malpa
+5162 Chodzaca Malpa
+5163 Lord Malp
+1401 Niszczyciel
+1402 Wojownik z Toporem
+1403 Tysieczny Wojownik
+1501 Skalny Golem
+1502 Zebacz Smugowy
+1503 Olbrzymi Skalny Golem
+1601 Ogr Wojownik
+1602 Ogr Rzeznik
+1603 Ogr Szaleniec
+7008 Robotnik Tu-Gui
+7009 Zolnierz Tu-Gui
+7010 Bialy Komandor Tu-Gui
+8507 Pustynny Zawadiaka
+8510 Pognisty Wojownik
+
+METINY
+8001 Metin Cierpienia <5lvl>
+8002 Metin Walki <10lvl>
+8003 Metin Bitwy <15lvl>
+8004 Metin Chciwosci <20lvl>
+8005 Metin Czerni <25lvl>
+8006 Metin Ciemnosci <30lvl>
+8007 Metin Zazdrosci <35lvl>
+8008 Metin Duszy <40lvl>
+8009 Metin Cienia <45lvl>
+8010 Metin Twardosci <50lvl>
+8011 Metin Diabla <55lvl>
+8012 Metin Upadku <60lvl>
+8013 Metin Smierci <65lvl>
+8014 Metin Morderstwa <70lvl>
+8015 Metin Twardosci <50lvl>
+8016 Metin Diabla <55lvl>
+8017 Metin Upadku <60lvl>
+8018 Metin Smierci <65lvl>
+8019 Metin Morderstwa <70lvl>
+8020 Kamien Shinsoo <1lvl>
+8021 Kamien Jinno <1lvl>
+8022 Kamien Chunjo <1lvl>
+8023 Kamien Imperialny <1lvl>
+8024 Metin Pung-Ma <75lvl>
+8025 Metin Ma-An <80lvl>
+8026 Metin Tu-Young <85lvl>
+8027 Metin Jeon-Un <90lvl>
+8101 Metin Cierpienia <5lvl>
+8102 Metin Walki <10lvl>
+8103 Metin Bitwy <15lvl>
+8104 Metin Chciwosci <20lvl>
+8105 Metin Czerni <25lvl>
+8106 Metin Ciemnosci <30lvl>
+8107 Metin Zazdrosci <35lvl>
+8108 Metin Duszy <40lvl>
+8109 Metin Cienia <45lvl>
+8110 Metin Twardosci <50lvl>
+8111 Metin Diabla <55lvl>
+8112 Metin Upadku <60lvl>
+
+BRONIE:
+
+BRON 1-RECZNA:
+10-19 Miecz
+20-29 Dlugi Miecz
+30-39 Sejmitar
+40-49 Stozkowy Miecz
+50-59 Szeroki Miecz
+60-69 Srebrny Miecz
+70-79 Storczykowy Miecz
+80-89 Miecz Poltorareczny
+90-99 Miecz Barbarzyncy
+100-109 Krwawy Miecz
+110-119 Wielki Miecz
+120-129 Miecz Lata. Maga
+130-139 Polksiezycowy Miecz
+140-149 Bojowy Miecz
+150-159 Miecz Szponu Ducha
+160-169 Miecz Nimfy
+170-179 Miecz Zadlo
+180-189 Zatruty Miecz
+190-199 Lwi Miecz
+200-209 Brzegowe Ostrze
+210-219 Smiercionosne Ostrze
+220-229 Ksiezycowy Miecz
+230-239 Niebianski Miecz
+240-249 Miecz Egzorcysty
+250-259 Demoniczne Ostrze
+260-269 Miecz Barona
+270-279 Miecz Syriusza
+280-289 Swiety Miecz
+290-299 Miecz Pelni Ksiezyca
+300 Miecz GM
+
+SZTYLETY
+1000-1009 Sztylet
+4000-4009 Amija
+1010-1019 Sztylet Kobry
+4010-4019 Dziewiec Ostrzy
+4020-4029 Krotki Noz
+1020-1029 Sztylet Nozycowy
+1030-1039 Noz Szczescia
+1040-1049 Ukaszenie Kota
+1050-1059 Twarz Diabla
+1060-1069 Sztylet Piesci Diabla
+1070-1079 Krwawy Sztylet
+1080-1089 Zebrowy Noz
+1090-1099 Chakram
+1100-1109 Smoczy Noz
+1110-1119 Noz Blyskawicy
+1120-1129 Noz Siamese
+1130-1139 Skrzydla Demona Chakram
+1140-1149 Zabkowany Noz
+1150-1159 Swietlisty Noz
+1160-1169 Noz Strumienia
+1170-1179 Kozik Czarn. Lisc.
+4030-4039 Ksiezycowy Podw. Noz
+4040-4049 Bezduszne No¿e (By Xeotran)
+1189 - Bron GM
+
+BRON 2-RECZNA:
+3000-3009 Glewia
+3010-3019 W³ócznia
+3020-3029 Gilotynowe Ostrze
+3030-3039 Pajecza Wlocznia
+3040-3049 Gizarma
+3050-3059 Kosa Bojowa
+3060-3069 Trojzab
+3070-3079 Halabarda
+3080-3089 Olbrzymi Topor
+3090-3099 Lodowa Iglica
+3100-3109 Miecz Dwunastu Duchow
+3110-3119 Ostrze Zbawienia
+3120-3129 Zabojca Lwow
+3130-3139 Partyzana
+3140-3149 Magnetyczne Ostrze
+3150-3159 Zlodziej Dusz
+3160-3169 Miecz Zalu
+3170-3179 Zabojca Zoltego Smoka
+3180-3189 Pogromca Niebieskiego Smoka
+3190-3199 Miecz Slonca
+3200-3209 Ostrze Boga Smokow
+3210-3219 Ostrze z Czerwonej Stali
+3229 - Bron GM
+
+£UKI:
+2000-2009 Luk
+2010-2019 Dlugi Luk
+2020-2029 Kompozytowy Luk
+2030-2039 Bojowy Luk
+2040-2049 Dlugi Luk Jezdzcy
+2050-2059 Bojowy Luk Jezdzcy
+2060-2069 Miedziany Luk
+2070-2079 Luk Czarnych Ruin
+2080-2089 Luk Czerwonego Oka
+2090-2099Luk Kolczastego Liscia
+2100-2109 Luk z Rogu Byka
+2120-2129 Luk Jednorozca
+2130-2139 Boski Luk Moreli
+2140-2149 Olbrzymi Luk Zoltego Smoka
+2150-2159 Luk z Rogu Jelenia
+2160-2169 Olbrzymi Luk Diabla
+2170-2179 Stalowy Luk Kruka
+2180-2189 Luk Niebieskiego Smoka
+2190-2199 Upiorna Kusza
+
+DZWONY:
+5000-5009 Miedziany Dzwon
+5010-5019 Srebrny Dzwon
+5020-5029 Zloty Dzwon
+5030-5039 Jadelitowy Dzwon
+5040-5049 Dzwon Fontanny
+5050-5059 Morelowy Dzwon
+5060-5069 Magiczny Dzwon
+5070-5079 Zloty Robaczy Dzwon
+5080-5089 Stalowy Robaczy Dzwon
+5090-5099 Dzwon Burzowego Ptaka
+5100-5109 Dzwon Nieba i Ziemi
+5110-5119 Antyczny Dzwon
+5120-5129 Bambusowy Dzwon
+5130-5139 Dzwon Smierci
+5140-5149 Smoczy Dzwon
+5150-5159 Hibiskusowy Dzwon
+
+WACHLARZE:
+7000-7009 Wachlarz
+7010-7019 Zelazny Wachlarz
+7020-7029 Wachlarz Czarnego Tygrysa
+7030-7039 Zurawi Wachlarz
+7040-7049 Pawi Wachlarz
+7050-7059 Wodny Wachlarz
+7060-7069 Kamienny Wachlarz
+7070-7079 Oceaniczny Wachlarz
+7080-7089 Zadlowy Wachlarz
+7090-7099 Wachlarz Fenixa
+7100-7109 Potrojny Wachlarz
+7110-7119 Brwisty Wachlarz
+7120-7129 Czarny Sloneczny Wachlarz
+7130-7139 Niebianski Ptasi Wachlarz
+7140-7149 Wachlarz Zbawienia
+7150-7159 Ekstazyjny Wachlarz
+7160-7169 Wachlarz Jesiennego Wiatru
+7170-7179 Wachlarz 8-Trigramow
+7180-7189 Wachlarz Lezacego Smoka
+7190-7199 Diabelski Wachlarz
+
+ZBROJE:
+
+ZBROJE WOJOWNIK:
+11200-11209 Mnisia Zbroja Plytowa
+11210-11219 Zelazna Zbroja Plytowa
+11220-11229 Zbroja Plytowa Tygrysa
+11230-11239 Lwia Zbroja Plytowa
+11240-11249 Smiertelna Zbroja Plytowa
+11250-11259 Smocza Zbroja Plytowa
+11260-11269 Zbroja Plytowa z Lusek
+11270-11279 Zlota Zbroja Plytowa
+11280-11289 Zbroja Boga Smokow
+11290-11299 Zbroja z Czarnej Stali
+11971 - Zbroja Hwang
+
+ZBROJE NINJA:
+11400-11409 Blekitne Ubranie
+11410-11419 Kremowe Ubranie
+11420-11429 Czerwone Ubranie
+11430-11439 Czerwone Ubranie Mrowki
+11440-11449 Ubranie Lwiej Mrowki
+11450-11459 Ubranie Zabojcy
+11460-11469 Ubranie Mlodego Smoka
+11470-11479 Ubranie Zabojcy Wiatru
+11480-11489 Ubranie Funkcyjne
+11490-11499 Ubranie Czarnego Wiatru
+11972 - Zbroja Hwang
+
+ZBROJE SURA:
+11600-11609 Zalobna Zbroja Plytowa
+11610-11619 Zbroja Plytowa Maga
+11620-11629 Nieszczesna Zbroja Plytowa
+11630-11639 Upiorna Zbroja Plytowa
+11640-11649 Zbroja Plytowa Yin-Yang
+11650-11659 Mistyczna Zbroja Plytowa
+11660-11669 Mglista Zbroja Plytowa
+11670-11679 Zbroja Twarzy Ducha
+11680-11689 Duchowa Zbroja Plytowa
+11690-11699 Zbroja Plytowa Czarnej Magii
+11973 - Zbroja Hwang
+
+ZBROJE SZAMAN:
+11800-11809 Blekitna Szata
+11810-11819 Turkusowa Szata
+11820-11829 Rozowa Szata
+11830-11839 Milosna Szata
+11840-11849 Szata Zach. Nieba
+11850-11859 Szata Slonca
+11860-11869 Szata Moralnosci
+11870-11879 Szata Pomaranczowego Kota
+11880-11889 Szata Baronow
+11890-11899 Czarna Szata
+11974 - Zbroja Hwang
+
+WEDKARSTWO:
+27600 Drewno Na Opa³
+27610 Marmur Rybacki
+27620 Rybie Wnêtrznoœci
+27799 Rybia Oœæ
+27800 Papka
+27801 Robak
+27802 Drobne Ryby
+27803 Karaœ
+27804 Ryba Mandaryna
+27805 Du¿y Karaœ
+27806 Karp
+27807 £osoœ
+27808 Karp Trawiasty
+27809 Pstr¹g Strumykowy
+27810 Wêgorz
+27811 Têczowy Pstr¹g
+27812 Rzeczny Pstr¹g
+27813 Krasnopiórka
+27814 Okoñ
+27815 Tenchi
+27816 Sum
+27817 Piskorz
+27818 Ryba Lotosu
+27819 S³odka Ryba
+27820 Gromadnik
+27821 Shiri
+27822 Lustrzany Karp
+27823 Z³oty Karaœ
+27833 Martwy Karaœ
+27834 Martwa Ryba Mandaryna
+27835 Martwy Du¿y Karaœ
+27836 Martwy Karp
+27837 Martwy £osoœ
+27838 Martwy Karp Trawiasty
+27839 Martwy Pstr¹g Strumykowy
+27840 Martwy Wêgorz
+27841 Martwy Têczowy Pstr¹g
+27842 Martwy Rzeczny Pstr¹g .
+27843 Martwa Krasnopiórka
+27844 Martwy Okoñ
+27845 Martwy Tenchi
+27846 Martwy Sum
+27847 Martwy Piskorz
+27848 Martwa Ryba Lotosu
+27849 Martwa S³odka Ryba .
+27850 Martwy Gromadnik
+27851 Martwa Shiri .
+27852 Martwy Lustrzany Karp .
+27853 Martwy Z³oty Karaœ
+27863 Pieczony Karaœ
+27864 Pieczona Ryba Mandaryna
+27865 Pieczony Du¿y Karaœ
+27866 Pieczony Karp
+27867 Pieczony £osoœ
+27868 Pieczony Karp Trawiasty
+27869 Pieczony Pstr¹g Strumykowy
+27870 Pieczony Wêgorz
+27871 Pieczony Têczowy Pstr¹g
+27872 Pieczony Rzeczny Pstr¹g
+27873 Pieczona Krasnopiórka
+27874 Pieczony Okoñ
+27875 Pieczony Tenchi
+27876 Pieczony Sum
+27877 Pieczony Piskorz
+27878 Pieczona Ryba Lotosu
+27879 Pieczona S³odka Ryba
+27880 Pieczony Gromadnik
+27881 Pieczona Shiri
+27882 Pieczony Lustrzany Karp
+27883 Pieczony Z³oty Karaœ
+27987 Ma³¿ .
+27990 Kawa³ek Kamienia
+27992 Bia³a Per³a
+27993 Niebieska Per³a
+27994 Krwawa Per³a
+
+SZKATULKI:
+50070 Szkaut³ka Wodza Orków
+50071 Szkatu³ka Ezot. W³adcy
+50072 Szkat. Odrodz. W³adcy
+50073 Szkat. Królowej Paj¹ków
+50074 Szkatu³ka Olbrz. Paj¹ka
+50075 Szkat. Nosiciela Plagi
+50076 Szkat. Pustynnego ¯ó³wia
+50077 Szkat.Dziewiêciu Ogonów
+50078 Szkat Zjawy ¯óltego Tygr
+50079 Szkat. Ognistego Króla
+50080 Szkat. Czerwonego Smoka
+50081 Szkat. Króla Demonów
+50082 Szkat. Umar³ego Rozpruw.
+50034 Szkatu³ka Z Zagadk¹
+50033 Zagadkowa Szkatu³ka
+70009 Szkatu³ka
+50006 Z³ota Szkatu³ka
+50007 Srebrna Szkatu³ka
+50012 Z³ota Szkatu³ka+
+50013 Srebrna Szkatu³ka+
+50011 Szkat. Blasku Ksiê¿yca
+50037 Heksagonalna Szkatu³ka
+50109 Czerwona Ebonitowa Szkatulka
+50110 Ebonitowa Szkatulka
+50111 Zolta Ebonitowa Szkatulka
+50112 J. Zielona Ebonitowa Szkatulka
+50113 Zielona Ebonitowa Szkatulka
+50114 Niebieska Ebonitowa Szkatulka
+50115 Czerwona Ebonitowa Szkatulka
+
+INSTRUKCJE:
+50401 Instr. Trzystr. Ciêcie
+50402 Instr. Wir Miecza
+50403 Instr. Berserk
+50404 Instr. Aura Miecza
+50405 Instr. Szar¿a .
+50416 Instr. Duchowe Uderzenie
+50417 Instr. Walniêcie
+50418 Instr. T¹pniêcie
+50419 Instr. Silne Cia³o
+50420 Instr. Uderzenie Miecza
+50431 Instr. Zasadzka
+50432 Instr. Szybki Atak
+50433 Instr. Wiruj¹cy Sztylet
+50434 Instr. Krycie Siê
+50435 Instr. Truj¹ca Chmura
+50446 Instr. Powtarz. Strza³
+50447 Instr. Deszcz Strza³
+50448 Instr. Ognista Strza³a
+50449 Instr. Bezszelest. Chód
+50450 Instr. Truj¹ca Strza³a
+50461 Instr. Uderzenie Palcem
+50462 Instr. Smoczy Wir
+50463 Instr. Czarowne Ostrze
+50464 Instr. Strach
+50465 Instr. Czarowna Zbroja
+50466 Instr. Rozprosz. Magii
+50476 Instr. Mrocz. Uderzenie
+50477 Instr. Ognist. Uderzenie
+50478 Instr. Ognisty Duch
+50479 Instr. Mroczna Ochrona
+50480 Instr. Duchowy Cios
+50481 Instr. Mroczna Sfera
+50491 Instr. Lataj¹cy Talizman
+50492 Instr. Strzelaj¹cy Smok
+50493 Instr. Smoczy Skowyt
+50494 Instr. B³ogos³awiñstwo
+50495 Instr. Odbicie
+50496 Instr. Pomoc Smoka
+50506 Instr. B³yskawiczny Rzut
+50507 Instr. Przywo³. B³ysk.
+50508 Instr. Burzowy Szpon
+50509 Instr. Leczenie
+50510 Instr. Zwinnoœæ
+50511 Instr. Podwy¿. Ataku
+
+TARCZE:
+13000-13009 Bojowa Tarcza
+13020-13029 Pieciokatna Tarcza
+13040-13049 Czarna Okragla Tarcza
+13060-13069 Sokola Tarcza
+13080-13089 Buddyjska Tarcza Tygrysa
+13100-13109 Lwia Tarcza
+13120-13129 Tarcza Smoka
+13140-13149 Tarcza Krwi. Skorupy
+13160-13169 Tarcza Trzech Wladcow
+13180-13189 Tarcza Aureola
+
+HELMY:
+
+HELMY WOJOWNIK:
+12200-12209 Tradycyjny Helm
+12220-12229 Zelazny Helm
+2520-12249 Upiorna Maska
+
+HELMY NINJA
+12340-12349 Skorzana Maska
+12360-12369 Maska Kolcza
+12380-12389 Stalowa Maska
+
+HELMY SURA
+12480-12489 Krwawy Helm
+12500-12509 Wyzywajacy Helm
+12240-12529 Zamkowy Helm
+
+HELMY SZAMAN
+12620-12629 Czapka Mnicha
+12640-12649 Czapka Fenixa
+12660-12669 Swietlista Czapka
+
+BRANSOLETY
+14000-14009 Drewniana Bransoleta
+14020-14029 Miedziana Bransoleta
+14040-14049 Srebrna Bransoleta
+14060-14069 Z³ota Bransoleta
+14080-14089 Jadeitowa Bransoleta
+14100-14109 Ebonitowa Bransoleta
+14120-14129 Per³owa Bransoleta
+14140-14149 Bransoleta z Bialego Zlota
+14160-14169 Krysztalowa Bransoleta
+14180-14189 Ametystowa Bransoleta
+14200-14209 Bransoleta z Niebianskich Lez
+
+BUTY
+15000-15009 Skorzane Buty
+15020-15029 Bambusowe Buty
+15040-15049 Drewniane Buty
+15060-15069 Buty Wyszywane Zlotem
+15080-15089 Skorzane Buty
+15100-15109 Zlote Buty
+15120-15129 Buty z Brazu
+15140-15149 Jadelitowe Buty
+15160-15169 Ekstazyjne Buty
+15180-15189 Deszczowe Buty
+15200-15209 Buty Feniksa
+15220-15229 Buty Ognistego Ptaka
+15240-15249 Buty Ze Skory Smoka
+
+NASZYJNIKI
+16000-16009 Drewniany Naszyjnik
+16020-16029 Miedziany Naszyjnik
+16040-16049 Srebrny Naszyjnik
+16060-16069 Zloty Naszyjnik
+16080-16089 Jadelitowy Naszyjnik
+16100-16109 Ebonitowy Naszyjnik
+16120-16129 Perlowy Naszyjnik
+16140-16149 Naszyjnik z Bialego Zlota
+16160-16169 Krysztalowy Naszyjnik
+16180-16189 Ametystowy Naszyjnik
+16200-16209 Naszyjnik z Niebianskich Lez
+
+KOLCZYKI
+17000-17009 Drewniane Kolczyki
+17020-17029 Miedziane Kolczyki
+17040-17049 Srebrne Kolczyki
+17060-17069 Zlote Kolczyki
+17080-17089 Jadelitowe Kolczyki
+17100-17109 Ebonitowe Kolczyki
+17120-17129 Perlowe Kolczyki
+17140-17149 Kolczyki z Bialego Zlota
+17160-17169 Krysztalowe Kolczyki
+17180-17189 Ametystowe Kolczyki
+17200-17209 Kolczyki z Niebianskich Lez
+
+KSIEGI
+50001 Ksiêga Szczêœcia
+50060 Instr. Jazdy Konnej
+50300 Ksiêga Umiejêtnoœci
+50301 Sztuka Wojny Sun Zi
+50302 Sztuka Wojny Wu Zi
+50303 WeiLiao Zi
+50304 Sztuka Combo
+50305 Zaaw Sztuka Combo
+50306 Mistrz. Sztuka Combo
+50307 Ksiêga Misji (³atwa)
+50308 Ksiêga Misji (normalna)
+50309 Ksiêga Misji (trudna)
+50310 Ksiêga Misji (ekspert)
+50311 Jêzyk Shinsoo
+50312 Jêzyk Chunjo
+50313 Jêzyk Jinno
+50314 Ksiêga Polimorfii
+50315 Zaaw. Ks. Polimorfii
+50316 Mistrz. Ks. Polimorfii
+50600 Przewodnik Do Górnictwa
+70003 Ksi¹¿ka Lidera
+70037 Ksiêga Zapomnienia
+71012 Ksi¹¿ka Lidera
+71022 Ksiêga Zapomnienia <int>
+71023 Ksiêga Zapomnienia <wit>
+71024 Ksiêga Zapomnienia <sila>
+71025 Ksiêga Zapomnienia <zre>
+71088 Ksiêga Misji (³atwa)
+71089 Ksiêga Misji (normalna)
+71090 Ksiêga Misji (trudna)
+71092 Ksiêga Polimorfii
+72043 Ksi¹¿ka Lidera
+72044 Ksi¹¿ka Lidera
+72045 Ksi¹¿ka Lidera
+
+FRYZURY
+
+FRYZURY WOJOWNIK
+73001 Zuchw. Fryz. (czerw.)
+73002 Zuchw. Fryz.(jasnobr¹z.)
+73003 Zuchw. Fryz. (b³êkitna)
+73004 Zuchw. Fryz. (br¹z.)
+
+73005 Zuchw. Fryz. (czerw.)
+73006 Zuchw. Fryz.(jasnobr¹z.)
+73007 Zuchw. Fryz. (b³êkitna)
+73008 Zuchw. Fryz. (br¹z.) .
+
+73009 Zuchw. Fryz. (czerw.)
+73010 Zuchw. Fryz.(jasnobr¹z.)
+73011 Zuchw. Fryz. (b³êkitna)
+73012 Zuchw. Fryz. (br¹z.)
+
+FRYZURY NINJA
+73251 Kucyk (br¹zowy)
+73252 Kucyk (zielony)
+73253 Kucyk (niebieski)
+73254 Kucyk (kremowy)
+
+73255 Œr.Krót.Przyst.(czerw.)
+73256 Œr.Krót.Przyst.(br¹z.)
+73257 Œr.Krót.Przyst.(j.br¹z)
+73258 Œr.Krót.Przyst.(fiolet.)
+
+73259 Krót.Przyst.(czerwone)
+73260 Krót.Przyst.(b³êkitne)
+73261 Krót.Przyst.(czarne)
+73262 Krót.Przyst.(¿ó³te)
+
+FRYZURY SURA
+73501 Sport. Przystrz. (bia³e)
+73502 Sport. Przystrz. (br¹z.)
+73503 Sport. Przystrz. (¿ó³te)
+73504 Sport. Przystrz. (ziel.)
+
+73505 Charyzm. W³osy (bia³e)
+73506 Charyzm. W³osy (czerw.)
+73507 Charyzm. W³osy (czar.)
+73508 Charyzm. W³osy (fiol.)
+
+73509 Zawiniête (bia³.) .
+73510 Zawiniête (b³êk.)
+73511 Zawiniête (czar.)
+73512 Zawiniête (br¹z.)
+
+FRYZURY SZAMAN
+73751 Spinka Motyl (br¹z.)
+73752 Spinka Motyl (czar.)
+73753 Spinka Motyl (b³êk.)
+73754 Spinka-Motyl (bia³a)
+.
+73755 Œr.D³ug. Je¿ (br¹z.)
+73756 Œr.D³ug. Je¿(czar.)
+73757 Œr.D³ug. Je¿ (¿ó³te)
+73758 Œr.D³ug. Je¿ (fiol)
+
+73759 Œr.D³ug. Fryz (j.br¹z.)
+73760 Œr.D³ug. Fryz (¿ó³.)
+73761 Œr.D³ug. Fryz (fiol.)
+73762 Œr.D³ug. Fryz (br¹z.)
+
+FRYZURY Z ATRYBUTAMI:
+
+1 FRYZURA - 10% OBRONA PRZED WOJOWNIKIEM
+2 FRYZURA - 10% OBRONA PRZED NINJA
+3 FRYZURA - 10% OBRONA PRZED SURA
+4 FRYZURA - 10% OBRONA PRZED SZAMANEM
+
+FRYZURY WOJOWNIK
+74001 Zuchw. Fryz. (czerw.)
+74002 Zuchw. Fryz. (j.br¹z.)
+74003 Zuchw. Fryz. (b³êkitne)
+74004 Zuchw. Fryz. (br¹z.)
+
+74005 Opaska (czerw.)
+74006 Opaska (kratk.)
+74007 Opaska (nieb.)
+74008 Opaska (ziel.symb.)
+
+74009 Spiête D³. W³ (czar.)
+74010 Spiête D³. W³. (czerw.)
+74011 Spiête D³. W³. (j.br¹z)
+74012 Spiête D³. W³. (ziel.)
+
+75001 Modna Fryzura (czerwona)
+75002 Modna Fryzura (jasna)
+75003 Modna Fryzura (niebieska)
+75004 Modna Fryzura (brazowa)
+
+75005 Opaska (brazowe)
+75006 Opaska (blond)
+75007 Opaska (niebieskie)
+75008 Opaska (zielone)
+
+75009 Wlosy (czarne)
+75010 Wlosy (czerwone)
+75011 Wlosy (brazowe)
+75012 Wlosy (zielone)
+
+FRYZURY NINJA
+74251 Kucyk (br¹zowy)
+74252 Kucyk (zielony)
+74253 Kucyk (niebieski)
+74254 Kucyk (kremowy)
+
+74255 Œr.-Krót. Je¿ (czerw.)
+74256 Œr.-Krót. Je¿ (br¹z.)
+74257 Œr.-Krót. Je¿ (j.br¹z.)
+74258 Œr.-Krót. Je¿ (fiol.)
+
+74259 Krótkie (czerw.)
+74260 Krótkie (b³êk.) .
+74261 Krótkie (czar.)
+74262 Krótkie Przystrz. (¿ó³.)
+
+75201 Kucyk (brazowy)
+75202 Kucyk (zielony)
+75203 Kucyk (niebieski)
+75204 Kucyk (kremowy)
+
+75205 Chusta (biala)
+75206 Chusta (zielona)
+75207 Chusta (brazowa)
+75208 Chusta (czerwona)
+
+75209 Kudlate Wlosy (czerwone)
+75210 Kudlate Wlosy (niebieskie)
+75211 Kudlate Wlosy (czarne)
+75212 Kudlate Wlosy (zolte)
+
+FRYZURY SURA
+74501 Sportowa (bia³e)
+74502 Sportowa (br¹z.)
+74503 Sportowa (¿ó³te)
+74504 Sportowa (ziel.)
+
+74505 Charyzm. W³osy (bia³e)
+74506 Charyzm. W³osy (czerw.)
+74507 Charyzm. W³osy (czarne)
+74508 Charyzm. W³osy (fiol.)
+
+74509 Zawiniête (bia³e)
+74510 Zawiniête (b³êk.)
+74511 Zawiniête (czar.)
+74512 Zawiniête (br¹z.)
+
+75401 Spiete (szare)
+75402 Spiete (jasno-brazowe)
+75403 Spiete (zolte)
+75404 Spiete (zielone)
+
+75405 Dlugie Wlosy (biale)
+75406 Dlugie Wlosy (czerwone)
+75407 Dlugie Wlosy (czarne)
+75408 Dlugie Wlosy (fioletowe)
+
+75409 Dlugi Kucyk (bialy)
+75410 Dlugi Kucyk (fioletowy)
+75411 Dlugi Kucyk (czarny)
+75412 Dlugi Kucyk (brazowy)
+
+FRYZURY SZAMAN
+74751 Spinka-Motyl (br¹z.)
+74752 Spinka-Motyl (czarna)
+74753 Spinka-Motyl (b³êkitna)
+74754 Spinka-Motyl (bia³a)
+
+74755 Œr.D³ug. Je¿ (br¹z.)
+74756 Œr.D³ug. Je¿ (czar.)
+74757 Œr.D³ug. Je¿ (¿ó³te)
+74758 Œr.D³ug. Je¿ (fiol.)
+
+74759 Œr.D³ug. Fryz. (j.br¹z.)
+74760 Œr.D³ug. Fryz. (¿ó³te)
+74761 Œr.D³ug. Fryz. (fiol.)
+74762 Œr.D³ug. Fryz. (br¹z.)
+
+75601 Modnie Sciete (brazowe)
+75602 Modnie Sciete (czarne)
+75603 Modnie Sciete (niebieskie)
+75604 Modnie Sciete (szare)
+
+75605 Dlugie Wlosy (brazowe)
+75606 Dlugie Wlosy (czarne)
+75607 Dlugie Wlosy (jasne)
+75608 Dlugie Wlosy (fioletowe)
+
+75609 Dawna Fryzura (brazowa)
+75610 Dawna Fryzura (jasna)
+75611 Dawna Fryzura (fioletowa)
+75612 Dawna Fryzura (czerwona)
+
+ULEPSZACZE
+30003 Nos œwini
+30004 Z¹b Dzika
+30005 Kawa³ek Zepsutej Zbroi
+30006 Z¹b Orka
+30007 Amulet Orka
+30008 Ezoteryczny Przewodnik
+30009 Nieznane Lekarstwo
+30010 ¯ó³æ NiedŸwiedzia
+30011 K³¹b
+30014 Futro Yeti
+30015 Pami¹tka Po Demonie
+30016 Klejnot Demona
+30017 Ozdobna Spinka Do W³osów
+30018 Czerwona Wstêga
+30019 P³on¹ca Grzywa
+30021 Kawa³ek Klejnotu
+30022 Ogon Wê¿a
+30023 Futro Bia³ego Tygrysa
+30025 Worek z Pajêcz¹ Trucizn¹
+30026 Kiszka Wilka
+30027 Futro Wilka
+30028 Szpon Wilka
+30030 Zardzewia³e Ostrze
+30031 Ornament
+30032 Zu¿yty Czarny Uniform
+30033 St³uczona Porcelana
+30034 Bia³a Wstêga
+30035 Krem Do Twarzy
+30037 Szpon Tygrysa
+30038 Skóra Tygrysa
+30039 Kawa³ek P³ótna
+30040 Liœæ
+30041 Shiriken
+30042 Pazur Walcz¹cego Tygrysa
+30045 Ig³a Skorpiona
+30046 Ogon Skorpiona
+30047 Ksiêga Kl¹tw
+30048 Kawa³ek Lodu
+30049 Lodowy Róg Wieloryba
+30050 Matowy Lód
+30051 Nieznany Talizman
+30052 Flaga
+30053 NiedŸwiedzia Skóra
+30055 Szpon Skorpiona
+30056 Pajêcza Sieæ
+30057 Oczy Paj¹ka
+30058 Worek Z Pajêcz. Jajami
+30059 Nogi Paj¹ka
+30060 Jêzyk ¯aby
+30061 ¯abie Udka
+30067 Skóra Wê¿a
+30069 Szpon Wilka+
+30070 Futro Wilka+
+30071 ¯ó³æ NiedŸwiedzia+
+30072 NiedŸwiedzia Skóra+
+30073 Bia³a Wstêga+
+30074 Zu¿yty Czarny Uniform+
+30075 Shiriken+
+30076 Amulet Orka+
+30077 Z¹b Orka+
+30078 Ezoteryczny Przewodnik+
+30079 Nieznany Talizman+
+30080 Ksiêga Kl¹tw+
+30081 Ogon Skorpiona+
+30082 Ogon Wê¿a+
+30083 Nieznane Lekarstwo+
+30084 Nieznany Talizman+
+30085 Kawa³ek P³ótna+
+30086 Pami¹tka Po Demonie+
+30087 Klejnot Demona+
+30088 Kawa³ek Lodu+
+30089 Futro Yeti+
+30090 Matowy Lód+
+30091 Symbol Wojownika
+30092 Zdobycz Dzikusa
+
+ZIELARSTWO
+50701 Kwiat Brzoskwini
+50702 Pokrzywa
+50703 Kwiat Kaki
+50704 Korzeñ Gango
+50705 Bez
+50706 Grzyb
+50707 Ró¿a Alpejska
+50708 Morwa
+50709 Mniszek Lekarski
+50710 Oset
+50711 Daktyl
+50712 Roœlina Sam-Zi
+50721 Kwiat Brzoskwini
+50722 Pokrzywa
+50723 Kwiat Kaki
+50724 Korzeñ Gango
+50725 Bez
+50726 Grzyb
+50727 Ró¿a Alpejska
+50728 Morwa
+50729 Mniszek Lekarski
+50730 Oset
+50731 Daktyl
+50732 Roœlina Sam-Zi
+50801 Sok z Kwiatu Brzoskwini
+50802 Sok Z Pokrzywy
+50803 Sok Z Kwiatu Kaki
+50804 Sok Z Korzenia Gango
+50805 Sok Z Bzu
+50806 Sok Z Grzyba Tue
+50807 Sok Z Ró¿y Alpejskiej
+50808 Sok Z Morwy
+50809 Sok Z Mniszka Alpejskiego
+50810 Sok Z Ostu
+50811 Sok Z Daktyla
+50812 Sok Z Roœliny Sam-Zi
+50813 Woda Sim <sok z kwiatu brzoskwini + bez>
+50814 Woda Dok <sok z pokrzywy + bez>
+50815 Woda Bo <sok z kwiatow kaki + grzyb tue>
+50816 Woda Young <sok z korzeni gango + grzyb tue>
+50817 Woda Zin <Woda sim + roza alpejska>
+50818 Woda SamBo <woda dok + roza alpejska>
+50819 Woda Mong <woda bo + morwa>
+50820 Woda Hwal <woda young + morwa>
+50901 Pusta Butelka
+50902 Przepis Dla Pocz¹tkuj¹cych
+50903 Przepis
+50904 Przepis Dla Profesjonalistow
+50905 Przepis Na Wodê Sim
+50906 Przepis Na Wodê Dok
+50907 Przepis Na Wodê Bo
+50908 Przepis Na Wodê Young
+50909 Przepis Na Wodê Zin
+50910 Przepis Na Wodê Hwal
+
+KAMIENIE DUSZ
+28630 - Penetracji +5
+28631 - Smierci +5
+28632 - Powtorki +5
+28633 - Wojownika +5
+28634 - Ninjy +5
+28635 - Sury +5
+28636 - Szamana +5
+28637 - Potwora +5
+28638 - Uchylenia +5
+28639 - Uniku +5
+28640 - Magii +5
+28641 - Witalnosci +5
+28642 - Obrony +5
+28643 - Przyspieszenia +5
+28000 - Masakry +0 <100% szansa na kradziez PE przeciwnikowi>
+28004 - Paranoi +0 <70% szansa na kradziez PE przeciwnikowi>
+28008 - Traumy +0 <50% szansa na kradziez PE przeciwnikowi>
+28012 - Glupoty +0 <30% szansa na kradziez PE przeciwnikowi>
+28100 - Masakry +1 <srednia odpornosc na obrazenia 100%>
+28104 - Paranoi +1 <srednia odpornosc na obrazenia 70%>
+28108 - Traumy +1 <srednia odpornosc na obrazenia 50%>
+28112 - Glupoty +1 <srednia odpornosc na obrazenia 30%>
+28200 - Masakry +2 <odpornosc na magie 100%>
+28204 - Paranoi +2 <odpornosc na magie 70%>
+28208 - Traumy +2 <odpornosc na magie 50%>
+28212 - Glupoty +2 <odpornosc na magie 30%>
+28300 - Masakry +3 <odpornosc na miecze 100%>
+28304 - Paranoi +3 <odpornosc na miecze 70%>
+28308 - Traumy +3 <odpornosc na miecze 50%>
+28312 - Glupoty +3 <odpornosc na miecze 30%>
+
+ALCHEMIA
+50601 Diamentowy Kamieñ
+50602 Kawa³ek Bursztynu
+50603 Skamienia³y Pieñ
+50604 Ruda Miedzi
+50605 Ruda Srebra
+50606 Ruda Z³ota
+50607 Ruda Jadeitu
+50608 Ruda Ebonitu
+50609 Kawa³ek Per³y
+50610 Ruda Bia³. Z³ota
+50611 Ruda Kryszta³u
+50612 Ruda Ametystu
+50613 Ruda Niebiañ. £ez
+50621 Diament
+50622 Bursztyn
+50623 Skamienia³e Drewno
+50624 MiedŸ
+50625 Srebro
+50626 Z³oto .
+50627 Jadeit
+50628 Ebonit
+50629 Per³a
+50630 Bia³e Z³oto
+50631 Kryszta³
+50632 Ametyst .
+50633 Niebiañskie £zy
+71057 Zwój Przyw. - ¯.S. Drew.
+71058 Zwój Przyw. - ¯. Miedzi
+71059 Zwój Przyw. - ¯. Srebra
+71060 Zwój Przyw. - ¯y³a Z³ota
+71061 Zwój Przyw. - ¯. Jadeitu
+71062 Zwój Przyw. - ¯. Ebonitu
+71063 Zwój Przyw. - S. Muszli
+71064 Zwój Przyw. - ¯.B. Z³ota
+71065 Zwój Przyw. - ¯. Kryszt.
+71066 Zwój Przyw. - ¯. Amet.
+71067 Zwój Przyw. - ¯.N. £ez
+
+JEZDZIECTWO
+50050 Medal Konny
+50051 Zdjêcie Konia .
+50052 Ksiêga Opanc. Konia
+50053 Ksiêga Wojskowego Konia
+50054 Siano
+50055 Marchewka
+50056 Czerwony ¯eñ-szeñ
+50057 Zio³o Z £atwych Ma³p
+50058 Zio³o Z Normalnych Ma³p
+50059 Zio³o Z Trudnych Ma³p
+50083 Bilet Na Jazdê Konn¹
+
+MAPY
+10001 Obszar Jayang
+10002 Obszar Youngan
+10003 Obszar Bokjung
+10004 Obszar Joan
+10005 Obszar Bakra
+10006 Obszar Pyungmo
+10007 Obszar Youngan
+10008 Obszar Jayang
+10009 Obszar Joan
+10010 Obszar Bokjung
+10011 Obszar Pyungmo
+10012 Obszar Bakra
+10013 Swiatynia Hwang
+10014 Dolina Seungryong
+10015 Pustynia Yongbi
+10016 Kuahklo Dong <v1>
+10017 Swiatynia Hwang
+10018 Wieza Gunsam <dt>
+10019 Obszar Jayang
+10020 Jungrang <obszar gildii>
+10021 Obszar Bokjung
+10022 Waryong <obszar gildii>
+10023 Obszar Bakra
+10024 Imha <obszar gildii>
+10025 Gora Sohan
+10026 Lungsam <las duchow>
+10027 Lungsam <las duchow>
+10028 Czerwony Las
+10029 Wezowe Pole
+10030 Pustynia Yongbi
+10031 Wezowe Pole
+10032 Kraina Gigantow
+10033 Wezowe Pole
+10034 Wezowe Pole
+10035 Kuahklo Dong <v1>
+10036 V2
+10037 Obszar Jayang
+10038 Obszar Youngan
+10039 Obszar Bokjung
+10040 Obszar Pyungmo
+10041 Obszar Bakra
+10042 Obszar Joan
+10043 Gora Sohan
+10044 Obszar Youngan
+10045 Gora Sohan
+10046 Obszar Youngan
+10047 Dolina Seungryong
+10048 Obszar Pyungmo
+10049 Dolina Seungryong
+10050 Obszar Pyungmo
+10051 Pustynia Yongbi
+10052 Obszar Joan
+10053 Pustynia Yongbi
+10054 Obszar Joan
+10055 Ognista Ziemia
+10056 Gora Sohan
+10057 Dolina Seungryong
+10058 Swiatynia Hwang
+10059 Gora Sohan
+10060 Swiatynia Hwang
+10061 Ognista Ziemia
+10062 Dolina Seungryong
+10063 Lungsam <las duchow>
+10064 Czerwony Las
+10065 Lungsam <las duchow>
+10066 Czerwony Las
+10067 Malpi Loch Latwy
+10068 Obszar Jayang
+10069 Malpi Loch Latwy
+10070 Obszar Bokjung
+10071 Malpi Loch Latwy
+10072 Obszar Bakra
+10073 Pustynia Yongbi
+10074 Malpi Loch Normalny
+10075 Pustynia Yongbi
+10076 Malpi Loch Trudny
+10077 Atlantyda <1 pietro>
+10078 Dolina Seungryong
+10079 Atlantyda <1 pietro>
+10080 Atlantyda <2 pietro>
+10081 Atlantyda <1 pietro>
+10082 Obszar Youngan
+10083 Atlantyda <1 pietro>
+10084 Atlantyda <2 pietro>
+10085 Atlantyda <1 pietro>
+10086 Obszar Joan
+10087 Atlantyda <1 pietro>
+10088 Atlantyda <2 pietro>
+10089 Atlantyda <1 pietro>
+10090 Obszar Pyungmo
+10091 Atlantyda <1 pietro>
+10092 Atlantyda <2 pietro>
+10093 Atlantyda <1 pietro>
+
+POZOSTALE, KTORE NIE WIEDZIALEM GDZIE PRZYDZIELIC
+11901 Smoking Czarny
+11902 Smoking Czarny
+11903 Suknia Slubna
+11904 Suknia Slubna
+22000 Zwój Powrotu Do Miasta
+22010 Zwój Powrotu
+25040 Zwoj Blogoslawienstwa
+25100 Zwój Kamienia Duszy
+27988 Mapa Skarbów
+27989 Wykrywacz Kamieni Dusz
+27991 Kamieñ Wodny
+27995 Pusta Butelka
+27996 Butelka Z Trucizn¹
+27997 Marmur Witalny
+27998 Sakiewka Alchemika
+27999 Sakiewka Kamieni Dusz
+29001 Muszla
+29002 Niebieska Muszla
+29003 ¯ó³ta Muszla
+29004 Czerwona Muszla
+29005 Zielona Muszla
+29006 Ciemnozolty Kamien Winny
+29006 Zolty Kamien Winny
+29007 Niebieski Kamien Winny
+29007 Ciebnoniebieski Kamien Winny
+29008 Niebieska Œwiêta Woda
+29009 ¯ó³ta Œwiêta Woda
+29010 Czerwona Œwiêta Woda
+29011 Zielona Œwiêta Woda
+29012 Ciemno-Niebieska œwiêta Woda
+29012 Jasno-Niebieska œwiêta Woda
+29013 Ciemno-¯ó³ta œwiêta Woda
+29013 Jasno-¯ó³ta œwiêta Woda
+29014 Ciemno-Czerwona œwiêta Woda
+29014 Jasno-Czerwona œwiêta Woda
+29015 Ciemno-Zielona œwiêta Woda
+29015 Jasno-Zielona œwiêta Woda
+30000 Jêczmieñ
+30001 List
+30002 Pieczona Kie³basa
+30012 Butelka Wina
+30013 Dzban Likieru
+30020 Nasionko Brzoskwini
+30024 Ogon Konia
+30029 W¹troba Wilka
+30036 Mistyczne Zio³o
+30043 Fasola
+30044 Glina
+30054 Obr¹czka Œlubna
+30062 Czara Lekarstwa
+30063 Lekarstwo Na Skórê
+30064 Ostry Kamieñ
+30065 Dzwonek
+30066 Ostry Pieprz
+30068 Stek Z Tofu
+30093 Torba Szczêœcia
+30094 Torba Szczêœcia
+30095 Torba Szczêœcia
+30096 Torba Szczêœcia
+30097 Sakwa Szczescia
+30098 Torba Szczescia
+30099 Torba Szczescia
+30100 Torba Szczescia
+30101 Obraczka Ariyoung
+30102 Zloty Topor Kowala
+30103 Zloty Zab Orka
+30104 Siec Pajaka Pustynnego
+30105 Kolcz. Ogon Skorpiona
+30106 Lekarstwo na Yu-Rang
+30107 Pazur Orka
+30108 Emalia Ceramiczna
+30109 Siec Pajaka Pustynnego
+30110 List Od Hu-Ahn-So
+30111 Skapy Ogon Skorpiona
+30112 Wegorz
+30113 Tajemny Regulamin
+30114 Plaga
+30115 Lek Na Plage
+30116 Tylne Nogi Zaby
+30117 List Domokrazcy
+30118 Szkatula Klejnot. Demona
+30119 Dzwon
+30120-30128 Kawalek Mapy
+30129 Rozkaz JeŸdŸcy Dokument zawieraj¹cy misjê wojskow¹.
+30130 Pusta butelka
+30131 List Od Kowala
+30132 Ksiêga Uriela
+30133 Kwieciste Buty
+30134 Przesy³ka Uriela
+30135 List Od Ariyoung
+30136 Rozrzutnie Ozdobiony £uk
+30137 Krew Ma³py
+30138 Pustynny Piasek
+30139 Szlifierz
+30140 Nici
+30141 Ozdobny Diament
+30142 List
+30143 Zio³a Lecznicze
+30144 W¹troba Tygrysa
+30145 Lekarstwo Balsosa
+30146 Kawa³ Lodu
+30147 Œwi¹tynna Doktryna
+30148 Œwi¹tynny Szal
+30149 Syrop Z Lodem
+30150 Strony Pamiêtnika
+30151 P³aszcz Wilków
+30152 Lekarstwo
+30153 Kwiaty
+30154 Sekretna Ksiêga Œwi¹tyni
+30155 Amulet Miriness
+30156 Sekretna Ksiêga Œwi¹tyni
+30157 Grot Strzaly
+30158 Ciastka Ryzowe
+30159 Ubrania
+30160 Wiadomosci
+30161 Oszczep Meza Ah-Ju
+30162 Oko Pajaka
+30163 Instrument Muzyczny Yuhwan
+30164 Tlumaczenie Ksiegi Klatw
+30165 Konar Zelkova
+30166 Certyfikat Tugyisa
+30167 Czerwony Konar Duchodrzewa
+30168 Wiadomosc Krola Plagi
+30210 Fragment Klejnotu
+30211 Fragment Klejnotu
+30212 Fragment Klejnotu .
+30213 Fragment Klejnotu
+30214 Fragment Klejnotu
+30215 Fragment Klejnotu
+30216 Fragment Klejnotu
+30217 Fragment Klejnotu
+30218 Fragment Klejnotu
+30219 Fragment Klejnotu
+30220 Kamieñ Duszy Jinunggyi
+30221 Œwi¹tynny Kamieñ Duszy
+30222 Kamieñ Duszy Sagyi
+30223 Kamieñ Duszy Aurtumryu
+30224 Kamieñ Duszy Gyimok
+30225 Kamieñ Duszy Tugyi
+30226 Metin Duszy
+30227 Kamien Metin Krola Plagi
+50002 Z³oty Pierœcieñ
+50003 Zwój Cofania Umiejêtnosci
+50004 Wykrywacz Zdarzeñ
+50005 Bilet Na Jazdê Konn¹
+50008 Z³oty Klucz
+50009 Srebrny Klucz
+50010 Skarpetka .
+50016 Pasta Fasolowa
+50017 Pasta Cukrowa
+50018 Pasta Owocowa
+50019 S³odki Ry¿
+50020 Torcik Fasolowy .
+50021 Torcik Cukrowy
+50022 Torcik Owocowy
+50023 Sakiewka Pieniêdzy
+50024 Ró¿a
+50025 Czekolada
+50026 Monety
+50027 Bilet Na Loteriê
+50028 24k Zloty Pierscien
+50029 18k Zloty Pierscien
+50030 14k Zloty Pierscien
+50031 Ró¿a
+50032 Czekolada
+50035 Prezent Na Dzieñ Dziecka
+50036 Prezent Na Dzieñ Dziecka
+50084 Kamieñ otwarcia
+50084 Kamieñ otwarcia
+50091 Sushi z Welonki
+50092 Sushi Z Karpia
+50093 Sushi Z £ososia .
+50094 Sushi z Suma
+50100 Ogniste Petardy
+50101 Ogniste Petardy
+50102 Ogniste Petardy
+50103 Ogniste Petardy
+50104 Ogniste Petardy .
+50105 Ogniste Petardy
+50106 Œwi¹t. Ogniste Petardy
+50108 Fajerwerki
+50200 Tobó³
+50322 Rola Transformacyjna
+50512 Têczowy Kamieñ .
+50513 Kamieñ Duchowy
+60001 ¯ó³æ
+60002 Rekomend. Od Dozorcy
+60003 Heroiczny Symbol
+69000 Sekret Walniecia
+69010 Sekret Chi
+69020 Sekret Duchowego Uderzenia
+69030 Sekret Uderz. Ataku
+69040 Sekret Zasadzki
+69050 Sekret Strzaly
+69060 Sekret Bezszelestnego Chodu
+69070 Sekret Szybkiego Uderzenia
+69080 Sekret Mrocznego Uderzenia
+69090 Sekret Smoczego Wiru
+69100 Sekret Uderzenia Nieba i Ziemi
+69110 Sekret Czarowania Ostrza
+69120 Sekret Latajacego Talizmanu
+69130 Sekret Leczenia
+69140 Sekret Pomocy Smoka
+69150 Sekret Blogoslawienstwa
+70001 Lalka Boginii
+70002 Trzecia rêka
+70003 Ksi¹¿ka Lidera
+70004 Medal Za Pracowitoœæ
+70005 Pierœcieñ Doœwiadczenia
+70006 Pierœcieñ Jêzyka
+70007 Wypaczony Pierœcieñ
+70008 Bia³a Flaga
+70010 Bilet Do Magazynu
+70011 Ulepszona Butelka
+70012 £za Bogini
+70013 Olbrz. £za Bogini
+70014 Pigu³ka Krwi
+70015 Tania Szczotka
+70016 Indianska Lalka
+70017 Indianska Bransoleta
+70018 Kolczyki Feniksa
+70019 Naszyjnik Milionera
+70020 Wino Z Kwiatu Brzoskwini
+70021 Blogoslawienstwo Aniola
+70022 Serce Bera
+70023 Laska Medrca
+70024 Marmur B³ogos³awieñstwa
+70025 Pierscien Godnosci
+70026 Ginace Lustro
+70027 Notatka Kowala
+70028 Notatka Medrca
+70029 Czerwone Pioro
+70030 Czerwony Monokl
+70031 Strategia Kontrataku
+70032 Instrukcja Dwurecznego Miecza
+70033 Instrukcja Jednorecznego Miecza
+70034 Instrukcja Sztyletu
+70035 Magiczna Ruda Miedzi
+70036 Notatka Honorowego Studenta
+70037 Ksiêga Zapomnienia
+70038 Peleryna Mêstwa
+70039 Podrêcznik Kowala
+70040 Upartoœæ Orków
+70041 Piesc Wyznawcy
+70042 Odlamek Diabla
+70043 Rêkawica Z³odzieja
+70044 Paznokiec Mrocznego Lorda
+70045 Pazur Mrocznego Lorda
+70046 Graal Boga Smokow
+70047 Pierœcieñ Jêz.(Przyk³ad)
+70048 Peleryna Uciekiniera
+70049 Pierœcieñ Lucy
+70050 Symb. Króla Przepowiedni
+70051 Rêkawica Króla Przepow.
+70052 Amulet Karmy 1
+70053 Amulet Karmy 2
+70054 Amulet Karmy 3
+70101 Ksiega Opatrznosci
+70102 Fasolka Zen
+70103 Sutra
+70104 Marmur Polimorfii
+70105 Marmur Polimorfii
+70106 Marmur Polimorfii
+70107 Marmur Polimorfii
+70201 Wybielacz
+70202 Bia³a Farba Do W³osów
+70203 Blond Farba Do W³osów
+70204 Czerw. Farba Do W³osów
+70205 Br¹zowa Farba Do W³osów .
+70206 Czarna Farba Do W³osów
+70207 Wybielacz
+70208 Brazowa Farba
+70251 Czerwone Ziolo
+70252 Niebieskie Ziolo
+70253 Zielone Ziolo
+70254 Fioletowe Ziolo
+70301 Pierœcionek Zarêczynowy
+70302 Obr¹czka Slubna
+71001 Zwój Egzorcyzmu
+71002 Zwój Powrotu Statusu
+71003 Zwój Powrotu Umiejêtn.
+71004 B³ogos³aw. Boga Smoków
+71005 Pierœcieñ Jezyka
+71006 Pierœcieñ Jezyka
+71007 Pierœcieñ Jezyka
+71008 Rybie Wnêtrznoœci
+71009 Powiêkszony Sk³ad
+71010 Trzecia Rêka
+71011 Maska Uczuæ
+71013 Fajerwerki
+71014 Mikstura Ataku +10
+71015 Pierœcieñ Doœwiadczenia
+71016 Rêkawica Z³odzieja
+71017 Szczêœliwa Z³ota Moneta
+71018 B³ogos³awieñstwo ¯ycia
+71019 B³ogos³awiñstwo Magii
+71020 B³ogos³awieñstwo Smoka
+71021 Zwój Wojny
+71022 Powrot - Inteligencja
+71023 Powrot - Witalnosc
+71024 Powrot - Sila
+71025 Powrot Umiejetnosci
+71026 Magiczny Metal
+71027 ¯ycie Boga Smoków
+71028 Atak Boga Smoków
+71029 Inteligencja Boga Smoków .
+71030 Obrona Boga Smoków
+71031 Wsparcie Boga Smoków
+71032 Zwój Boga Smoków
+71033 Maska Uczuæ
+71034 Mikstura Ataku +15
+71035 Zwój Przywo³ania .
+71036 Zwój Przyw. - Wódz Orków
+71037 Zwój Przyw. - Ezot. W³.
+71038 Zwój Przyw. - Król. Paj.
+71039 Zwój Przyw. - Pust. ¯ó³w
+71040 Zwój Przyw. - Ogn. Król
+71041 Zwój Przyw. - 9 Ogonów
+71042 Zwój Przyw. - Król Dem.
+71043 Zwój Przyw. - Zjawa Zlot. Tygrysa
+71044 D³oñ Krytyka
+71045 D³oñ Przebicia
+71047 Olejek Kamienia Dusz
+71048 Zaklêcie Modyfikacji
+71049 Szpula Jedwabiu
+71050 Mikstura Szybkoœci
+71051 6-7 Bon
+71052 Zmiana 6-7 Bonu
+71054 Olejek Wygnania
+71055 Olejek Nazwy
+71056 Olejek Niebios
+71068 Aspekt Ptaka Mi³oœci
+71069 Kolczyki Harmonii
+71070 Bransoleta Mi³oœci
+71071 Kolczyki Mi³oœci
+71072 Bransoleta Harmonii
+71073 Naszyjnik Mi³oœci
+71074 Naszyjnik harmonii
+71075 Farba do W³osów (bia³a)
+71076 Farba do W³osów (blond)
+71077 Farba do W³osów (czerw.)
+71078 Farba do W³osów (br¹zowa)
+71079 Farba do W³osów (czarna)
+71080 Kamieñ Metin (lekki)
+71081 Kamieñ Metin (normalny)
+71082 Kamieñ Metin (ciê¿ki)
+71083 Ksiêga Obróbki Kamienia
+71084 Zaczarownie Przedmiotu
+71085 Wzmocnienie Przedmiotu
+71086 Zadanie Dla Poz. (20-29)
+71087 Zadanie Dla Poz. (30-39)
+71091 Olejek Handlu
+71093 Marmur Polimorfii
+71094 Rada Pustelnika
+71095 Przepustka
+71096 Medal Portalu
+72001 Pierœcieñ Doœwiadczenia
+72002 Pierœcieñ Doœwiadczenia
+72003 Pierœcieñ Doœwiadczenia
+72004 Rêkawica Z³odzieja
+72005 Rêkawica Z³odzieja
+72006 Rêkawica Z³odzieja
+72007 Szpula Jedwabiu
+72008 Szpula Jedwabiu
+72009 Szpula Jedwabiu
+72010 Pióro Ptaka Mi³oœci
+72011 Pióro Ptaka Mi³oœci .
+72012 Pióro Ptaka Mi³oœci
+72013 Rybie Wnêtrznoœci
+72014 Rybie Wnêtrznoœci
+72015 Rybie Wnêtrznoœci
+72016 Trzecia Rêka Rêka .
+72017 Trzecia Rêka Rêka
+72018 Trzecia Rêka Rêka
+72019 Powiêkszony Sk³ad
+72020 Powiêkszony Sk³ad
+72021 Powiêkszony Sk³ad
+72022 Szczêœliwa Z³ota Moneta
+72023 Szczêœliwa Z³ota Moneta
+72024 Szczêœliwa Z³ota Moneta
+72025 D³oñ Przebicia
+72026 D³oñ Przebicia
+72027 D³oñ Przebicia
+72028 Maska Uczuæ
+72029 Maska Uczuæ
+72030 Maska Uczuæ
+72031 Atak Boga Smoków
+72032 Atak Boga Smoków
+72033 Atak Boga Smoków
+72034 Obrona Boga Smoków
+72035 Obrona Boga Smoków
+72036 Obrona Boga Smoków
+72037 ¯ycie Boga Smoków
+72038 ¯ycie Boga Smoków
+72039 ¯ycie Boga Smoków
+72040 Inteligencja Boga Smoków
+72041 Inteligencja Boga Smoków
+72042 Inteligencja Boga Smoków
+72046 D³oñ Krytyka
+72047 D³oñ Krytyka
+72048 D³oñ Krytyka
+72501 Pierœcieñ Doœw. (iCafe)
+72502 Rêkawica Z³odz. (iCafe)
+72701 Buty Wiatru
+72702 Buty Wiatru
+72703 Kolczyk z Kosci Tygrysa
+72704 Kolczyk z Kosci Smoka
+72705 Bransoleta z Kosci Tygrysa
+72706 Bransoleta z Kosci Smoka
+72707 Naszyjnik z Kosci Tygrysa
+72708 Naszyjnik z Kosci Smoka
+72709 Kolczyk z Kosci Tygrysa
+72710 Kolczyk z Kosci Smoka
+72711 Bransoleta z Kosci Tygrysa
+72712 Bransoleta z Kosci Smoka
+72713 Naszyjnik z Kosci Tygrysa
+72714 Naszyjnik z Kosci Smoka
+72715 ???
+72716 ???
+80001 Sakiewka Na Pieni¹dze
+80002 Czysty Papier
+80008 Bry³a Z³ota
+90001 Pusta Butelka Na Wodê
+90002 Butelka Wody
+90003 Kryszta³
+90004 Klejnot
+90005 Kamieñ Wodny
+90006 Kamieñ Duszy
+90007 Minera³
+50038 Brazowy Certyfikat
+50039 Srebrny Certyfikat
+50040 Zloty Certyfikat
+50041 Podarunek
+50042 Zloty Medal Bohatera
+50100 -50105 Ogniste Petardy
+50106 Swiateczne Ogniste Petardy
+50107 Chinska Ognista Petarda
+50108 Fajerwerki
+1 - Yang
+2 - Polska Wersja
+27116 - 27118 Rozowa Mikstura
+27119 -27121 Blekitna Mikstura
+8000 Drewniana Strzala
+8001 Bambusowa Strzala
+8002 Kamienna Strzala
+8003 Zelazna Strzala
+8004 Stalowa Strzala
+8005 Srebrna Strzala
+8006 Ognista Strzala
+8008 Lodowa Strzala
+9001 Zbroja Nahan +5
+9002 Zbroja Tanma +5
+9003 Zbroja Jinhon +5
+9004 Zbroja Chung +5
+11000 Zbroja Wilka
+11010 Zbroja Dzikiego Knura
+11020 Zbroja Niedzwiedza
+11030 Zbroja Tygrysa
+11300 Ciagliwosc
+11301 Ciagliwosc
+11302 Dobra Wytrzymalosc
+11303 Slaba Zbroja
+11304 Wrogi Mur
+11305 Inteligencja
+11306 Zolnierze
+11307 Pierwszorzedne Buty
+11308 Wytrzymalosc Wroga
+11309 Inna Wroga Wytrzymalosc
+11500 Gang-Ma
+11501 Zung-Seon
+11502 Chung-Zin
+11503 Ho-Young
+11504 Young-Seon
+11505 Su-Sin
+11506 O-Gyo
+11507 Bi-Pung
+11508 Zoek-Hyoun
+11509 Ho-Gu
+11700 Gang-Ryoung-Gab
+11701 Guek-Hon-Gab
+11702 Ha-An-Gab
+11703 Bi-Sang-Gab
+11704 Ya-Sang-Gab
+11705 Noe-Un-Gab
+11706 Zoek-Sang-Gab
+11707 Heuk-Sin-Gab
+11708 Ma-Sin-Gab
+11709 Ma-Ryoung-Sin-Gab
+12000-12009 Wodna Szata
+40001 Nieznany Zloty Pierscien
+40002 Pierscien Levi
+40003 Pierscien Thora
+40004 Pierscien Eeka
+40005 Dzwiekowy Dzwon
+40006 Przesylka Barbarzynska
+40007 List od Barbarz. Wladcy
+50821 Czerwona Rosa
+50822 Rozowa Rosa
+50823 Zolta Rosa
+50824 Zielona Rosa
+50825 Niebieska Rosa
+50826 Biala Rosa
+50089 Przydzial Dla Gornika
+50117 Pudelko Klejnotow
+50200 Tobol
+27800 Papka
+27801 Robak
+27400 Wedka +1
+27590 Wedka +20
+50061 Instrukcja Oswajania Konia
+50062 Instrukcja Powozenia
+50084 Kamien Otwarcia
+50085 Nasionko
+50086 Ksiezycowy Torcik
+50087 Byliczny Torcik Ryzowy
+50088 Fasolowy Torcik Ryzowy
+50090 Szzkatulka Lisa o 9 Ogonach
+90010 Kamien Fundacyjny
+90011 Pien
+90012 Dykta
+27100 - 27102 Zielona Mikstura
+27103 - 27105 Fioletowa Mikstura
+27110 - 27112 Zielona Mikstura
+27113 - 27115 Fioletowa Mikstura
+30201 Pierscionek Zemsty
+30202 Ucho Danakasa
+30203 Krysztal
+30204 Kawalek Krysztalu
+30205 Material Produkcyjny
+30300 Nieznana Stara Skrzynia
+30301 Mapa Wiezy Sa-Gui
+30302 Mapa Wiezy Zin-Sa-Gui
+30303 Klucz Bong-In
+30304 Klucz Zin-Bong-in
+27001 - 27003 Czerwona Mikstura
+27004 - 27006 Niebieska Mikstura
+29101 - 29109 - Kilof (By Wicherixen)
+28960 - Kawalek Peknietego Kamienia
+27620 - Rybie Wnetrznosci
+27610 - Marmur Rybacki
+27600 - Drewno Na Opal
+22050 - Zwoj Inkarnacji
+22040 - Zwoj Zycia
+
+
+KOMENDY
+/item <id> - dodaje przedmiot
+/item <id> <ilosc sztuk> - dodaje kilka sztuk przedmiotu
+/m <id potwora lub npc> - przywoluje potwora lub npc
+/p <id potwora lub npc> - zamiana w potwora lub npc
+/set <nick> align 200000 - ranga rycerski
+/weak - najpierw klikamy na potwora ppm, nastepnie wpisujemy komende i potwor ma 1hp
+/ski 121 - Dowodzenie
+/ski 131 - Przywolaj Konia
+/ski 124 - Gornictwo
+/ski 125 - Kowalstwo
+/xmas 0 - Dzien
+/xmas 1 - Noc
+/inv - niewidzialnosc
+/dc <nick> - wyrzuca kogos z serwera
+/warp <nick> - przenosi GM'a do gracza
+/transfer <nick> - przenosi gracza do GM'a
+/go x y - przenosi do wspolrzednych x y
+/go s - teleport na Gore Sohan
+/go t - teleport do Doliny Orkow
+/go m - teleport do Swiatynii Hwang
+/go f - teleport do Piekla <ognista ziemia>
+/go tr - teleport do Lasu Duchow <Lungsam>
+/go trent2 - teleport do Czerwonego Lasu
+/xmas_snow 0 - wylacz snieg
+/xmas_snow 1 - wlacz snieg
+/set <nick> max_hp <ilosc> - zwieksza punkty zycia
+/set <nick> max_sp <ilosc> - zwieksza punkty energii
+/n <tekst> - Wiadomosc na gorze ekranu <ogloszenie serwerowe>
+/block_chat <nick> <czas> - blokuje chat na jakis czas
+/block_chat_list - lista graczy z zablokowanym pisaniem
+/kill <nick> - zabija gracza
+/stun <nick> - omdlema gracza
+/slow <nick> - spowalnia gracza
+/horse_level <nick> <level> - podnosi poziom konia
+/reset - resetuje PZ i PE
+/go d - teleport na pustynie
+/go A - Shinsoo M1
+/go A3 - Shinsoo M2
+/go B - Chunjo M1
+/go B3 - Chunjo M2
+/go C - Jinno M1
+/go C3 - Jinno M2
+/purge - usuwa potwory, npc itp z okolicy
+/level <1-99> - zmiana lvl'u postaci
+/go o - teleport do Areny OX
+/warp 400 600 - teleport do Areny GM'ow
+/warp 200 100 - Wyspa ze sniegiem ((Siedliszcza GM'ow))
+/warp 7032 5225 - teleport do V2
+/resp all - jezeli usuniemy komenda /purge jakiegos NPC
+/ - powtarza poprzednia komende
+/gwlist - pokazuje wojny gildii
+/gwcancel <gildia1> <gildia2> - konczy wojne miedzy danymi gildiami
+/horse_ride - przywoluje konia
+/setsk 121 59 - Dowodzenie P
+/setsk 122 59 - Combo P
+/setsk 124 59 - Gornictwo P
+/setsk 125 59 - Kowalstwo P
+/setsk 126 59 - Jezyk Shinsoo P
+/setsk 127 59 - Jezyk Chunjo P
+/setsk 128 59 - Jezyk Jinno P
+/setsk 129 59 - Polimorfia P
+/setsk 130 30 - 30 lvl konia
+/setsk 131 10 - Przywolanie konia 100%
+/b <tekst> - ogloszenie w ramce
+/x - dzien
+/h - informacja o koniu
+/o - Tryb obserwowania
+/f - ...nie wiem...
+/u - ilosc osob online
+/w - ilosc osob online
+/setsk 137 59 - Ciecie z Siodla P <skill konny>
+/setsk 138 59 - Stapniecie Konia P <skill konny>
+/setsk 139 59 - Fala Mocy P <skill konny>
+/setsk 140 59 - 4 skill militara <chyba Ninja ma 4 skille konne>
+/poly 0-3 - twoja postac
+/poly 4 - Wojka
+/poly 5 - Ninja
+/poly 6 - Sura Kobieta
+/poly 7 - Szaman
+/priv_empire 0 1:item_drop <drop w %> <time> - Zwieksza drop itemkow o dany procent na okreslony czas
+/priv_empire 0 2:gold_drop <drop w %> <time> - Zwieksza drop Yang o dany procent na okreslony czas
+/priv_empire 0 3:gold10_drop <drop w%> <time> - Zwieksza drop Yang o dany procent na okreslony czas i mnozy razy 10
+/priv_empire 0 4:exp <exp w %> <time> - Zwieksza exp o dany procent na okreslony czas
+Sura BM - skille P
+/setsk 76 59
+/setsk 77 59
+/setsk 78 59
+/setsk 79 59
+/setsk 80 59
+/setsk 81 59
+Sura WP - skille P
+/setsk 61 59
+/setsk 62 59
+/setsk 63 59
+/setsk 64 59
+/setsk 65 59
+/setsk 66 59
+Wojownik Body - skille P
+/setsk 1 59
+/setsk 2 59
+/setsk 3 59
+/setsk 4 59
+/setsk 5 59
+Wojownik Mental - skille P
+/setsk 16 59
+/setsk 17 59
+/setsk 18 59
+/setsk 19 59
+/setsk 20 59
+Szaman Smok - skille P
+/setsk 91 59
+/setsk 92 59
+/setsk 93 59
+/setsk 94 59
+/setsk 95 59
+/setsk 96 59
+Szaman Healer <leczenie> - skille P
+/setsk 106 59
+/setsk 107 59
+/setsk 108 59
+/setsk 109 59
+/setsk 110 59
+/setsk 111 59
+Ninja Dagger - skille P
+/setsk 31 59
+/setsk 32 59
+/setsk 33 59
+/setsk 34 59
+/setsk 35 59
+Ninja Archer - skille P
+/setsk 46 59
+/setsk 47 59
+/setsk 48 59
+/setsk 49 59
+/setsk 50 59
+/set <nick> exp <ilosc expa> - dostajemy dana ilosc expa
+/set <nick> gold <ilosc Yang> - dostajemy dana ilosc Yang
+/pkmode 0 - Tryb PVP Pokojowy
+/pkmode 1 - Tryb PVP Agresywny
+/pkmode 2 - Tryb PVP Wolny
+/set <nick> skill <ilosc pkt> - dodaje dana ilosc pkt umiejetnosci
+/setskillother <nick> <id siklla> 59 - dajemy komus dany skill na P
+/r - przywraca wszystkie pkt energii i zycia
+/a <nick> <level> - dajemy komus dany lvl
+xmas_song 1 W³¹cza siê piosenka œwi¹teczna.
+/xmas_song 0 Wy³¹cza siê piosenka.
+/xmas_boom 1 Noc.
+/xmas_boom 0 Dzieñ
+/xmas_tree 0 Œwiêta OFF
+/xmas_tree 1 Pierwszy etap œwi¹t.
+/xmas_tree 2 Drugi etap œwi¹t.
+/xmas_tree 3 Trzeci etap œwi¹t.
+/xmas_santa 1 Santa Claus began
+/xmas_santa 0 Santa Claus ended
+/open || start OX event
+/mspd 0 - 1000 - szybkoœæ chodzenia
+/set_maxhp <liczba> - doladowanie hp
+/set_maxsp <liczba> - doladowanie pe
+/a <nick> level <lvl> - Zmienia lvl gracza
+/polyitem <id potwora> - dodaje marmur polimorfii z danym potworem
+/setsk 151 7 - Krew Boga Smokow
+/setsk 152 7 - Blogoslawienstwo Boga Smokow
+/setsk 153 7 - Swieta Zbroja
+/setsk 154 7 - Akceleracja
+/setsk 155 7 - Furia Boga Smokow
+/setsk 156 7 - Smocze Zyczenie
+/setsk 157 7 - ...nie wiem...
+/set_state run - ...nie wiem...
+/set_state start - ...nie wiem...
+/set_state information - ...nie wiem...
+/e lotto_round - ...nie wiem...
+/e lotto-drop <0 lub 1> - ...nie wiem...
+/gete <0 lub 1> - ...nie wiem...
+/getq - ...nie wiem...
+/reload q - ...nie wiem...
+/reload all - danie GM bez restartu
+/reload - restart innych rzeczy
+
